@@ -7,3 +7,8 @@ English: Writing applications and tools for Iranian (Also as know Azerbaijanis P
 تۆرکجه: ایران خالقلارینین دیللری اۆچۆن اپلیکشنلر و آراچلار یازیلاجاق. ایراندا ۳۵ میلیونان چوخ تۆرک میلت واردی. بیزه قاتیلیپ فیکریزی بیزنن پایلاشین و گلیشتیره بیلرسیز.
 
 İran (Azərbaycanlıların da bildiyi kimi) türk xalqlarının dilləri üçün ərizə və alətlərin yazılması. İranda 35 milyondan çox türk yaşayır. Sizdə bizə qoşulub öz ideyalarınızı bizimlə bölüşüb inkişaf etdirə bilərsiniz.
+
+
+بوردا .KLC اولان فایل مایکروسافتین کیبرد دگیشدیرن پروگرامی نان دگیشدیره بیلرسیز
+پروگرامین لینکی بودور
+https://www.microsoft.com/en-us/download/details.aspx?id=102134
